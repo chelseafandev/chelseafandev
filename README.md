@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋  
 
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/> 
 <!--
 **chelseafandev/chelseafandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
