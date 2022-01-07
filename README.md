@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://www.premierleague.com/"><img src="https://img.shields.io/badge/Chelsea-360D3A?style=flat-square&logo=PremierLeague&logoColor=white"/></a> <a href="https://www.ea.com/games/fifa/fifa-22"><img src="https://img.shields.io/badge/FIFA22-003791?style=flat-square&logo=Playstation5&logoColor=white"/></a> <a href="https://www.rottentomatoes.com/"><img src="https://img.shields.io/badge/Rotten Tomatoes-FA320A?style=flat-square&logo=RottenTomatoes&logoColor=white"/></a> <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white"/></a>
+<a href="https://www.chelseafc.com/en"><img src="https://img.shields.io/badge/Chelsea-360D3A?style=flat-square&logo=PremierLeague&logoColor=white"/></a> <a href="https://www.ea.com/games/fifa/fifa-22"><img src="https://img.shields.io/badge/FIFA22-003791?style=flat-square&logo=Playstation5&logoColor=white"/></a> <a href="https://www.rottentomatoes.com/"><img src="https://img.shields.io/badge/Rotten Tomatoes-FA320A?style=flat-square&logo=RottenTomatoes&logoColor=white"/></a> <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white"/></a>
 
 <!--
 **chelseafandev/chelseafandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
