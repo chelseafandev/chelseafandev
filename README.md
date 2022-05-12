@@ -1,4 +1,4 @@
-### Back to the Basic 👏
+### Back to Basics 👏
 
 <br>
 
